@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Rust Learning and LLM
-- 🌱 I’m currently learning Rust,LLM and network programming
+- 🔭 I’m currently working on Rust,LLM and network programming
 - 💬 Ask me about anything
 
 **Github概览数据**
